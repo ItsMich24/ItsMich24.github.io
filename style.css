@@ -22,8 +22,8 @@ section {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: url("https://i.pinimg.com/564x/f1/f9/3f/f1f93ff767bfbdc21a33d09d40f41c21.jpg");
-  background-position: center;
+  /*background: url("https://i.pinimg.com/564x/f1/f9/3f/f1f93ff767bfbdc21a33d09d40f41c21.jpg");
+  background-position: center;*/
 }
 
 h1 {
