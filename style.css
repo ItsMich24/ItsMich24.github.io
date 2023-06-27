@@ -117,8 +117,8 @@ h1 {
   max-width: auto;
   height: 300px;
   text-align: center;
-  background-color:#604377 ;
-  border: 6px solid #aa93c0;
+  /*background-color:#604377 ;
+  border: 6px solid #aa93c0;*/
 }
 
 /* Experiencia */
@@ -139,7 +139,7 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #402c51;
+  background: linear-gradient(to right, #684781, #b059ca, #a191a7);
 }
 
 .experiencia i {
@@ -292,7 +292,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: #533969;
+  background: linear-gradient(to right, #533969, #553555, #615566); /*Degradado de imagen*/
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
